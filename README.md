@@ -3,4 +3,4 @@
 ### Maintainability Badge:
 [![Maintainability](https://api.codeclimate.com/v1/badges/304443f72ed31aff22c9/maintainability)](https://codeclimate.com/github/emp7yhead/python-project-lvl1/maintainability)
 ### GitGub Actions:
-![linter-check](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![linter-check](https://github.com/emp7yhead/python-project-lvl1/actions/workflows/<WORKFLOW_FILE>/badge.svg)
