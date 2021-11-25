@@ -5,12 +5,19 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: pypy3
+        # testing package on several versions of Python
+        python-version: [3.8, 3.9]
     steps:
-    -name: Install poetry
-    run:
-    pip install poetry
-    -name: Lint with flake8
-    run:
-    pip install flake8
-    make lint
+      - uses: actions/checkout@v2
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+        # make depends on poetry
+      - name: Install dependencies
+        run: |
+          pip install poetry
+          make install
+      - name: Run linter
+        run: |
+          make lint
