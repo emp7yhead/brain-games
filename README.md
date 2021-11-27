@@ -3,8 +3,8 @@
 Project 'Brain Games' include four games:
 - [X] Brain even
 - [X] Brain calculator
-- [ ] Brain gcd
-- [ ] ???
+- [X] Brain gcd
+- [ ] Brain progression
 ### Insallation:
 ```
 make build
@@ -17,3 +17,7 @@ make install
 + Brain calculator:
 `brain-calc`
 [![asciicast](https://asciinema.org/a/4yklFRGDNofw8YhOkR190Skxx.svg)](https://asciinema.org/a/4yklFRGDNofw8YhOkR190Skxx)
+
++ Brain calculator:
+`brain-gcd`
+[![asciicast](https://asciinema.org/a/LWsrnm77sxaPSj5ChlIS4GRfM.svg)](https://asciinema.org/a/LWsrnm77sxaPSj5ChlIS4GRfM)
