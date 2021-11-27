@@ -3,8 +3,8 @@
 Project include four games:
 - [X] Brain even
 - [X] Brain calculator
-- []
-- []
+- [ ]
+- [ ]
 ### Insallation:
 ```
 make build
