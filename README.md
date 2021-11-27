@@ -20,4 +20,5 @@ make install
 
 + Brain calculator:
 `brain-gcd`
+
 [![asciicast](https://asciinema.org/a/LWsrnm77sxaPSj5ChlIS4GRfM.svg)](https://asciinema.org/a/LWsrnm77sxaPSj5ChlIS4GRfM)
