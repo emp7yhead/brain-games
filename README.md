@@ -12,10 +12,12 @@ make install
 ```
 + Brain even:
 `brain-even`
+
 [![asciicast](https://asciinema.org/a/wuHWWj2TU6nBJZyPxMYXO07XC.svg)](https://asciinema.org/a/wuHWWj2TU6nBJZyPxMYXO07XC)
 
 + Brain calculator:
 `brain-calc`
+
 [![asciicast](https://asciinema.org/a/4yklFRGDNofw8YhOkR190Skxx.svg)](https://asciinema.org/a/4yklFRGDNofw8YhOkR190Skxx)
 
 + Brain calculator:
