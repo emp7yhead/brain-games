@@ -6,6 +6,11 @@ Project 'Brain Games' include five games:
 - [X] Brain gcd - Answer what is the greatest common divisor of given numbers.
 - [X] Brain progression - Answer what number is missing in the progression?
 - [X] Brain prime - Answer "yes" if given number is prime, otherwise answer "no".
+
+### Dependencies:
+- python = "^3.9"
+- prompt = "^0.4.1"
+
 ### Insallation:
 ```
 make build
