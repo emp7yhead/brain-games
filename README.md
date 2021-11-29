@@ -20,7 +20,7 @@ make install
 
 [![asciicast](https://asciinema.org/a/4yklFRGDNofw8YhOkR190Skxx.svg)](https://asciinema.org/a/4yklFRGDNofw8YhOkR190Skxx)
 
-+ Brain calculator:
++ Brain gcd:
 `brain-gcd`
 
 [![asciicast](https://asciinema.org/a/LWsrnm77sxaPSj5ChlIS4GRfM.svg)](https://asciinema.org/a/LWsrnm77sxaPSj5ChlIS4GRfM)
