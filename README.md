@@ -24,3 +24,8 @@ make install
 `brain-gcd`
 
 [![asciicast](https://asciinema.org/a/LWsrnm77sxaPSj5ChlIS4GRfM.svg)](https://asciinema.org/a/LWsrnm77sxaPSj5ChlIS4GRfM)
+
++ Brain progression:
+'brain-progression'
+
+[![asciicast](https://asciinema.org/a/QVq8vuaHZS5fx24ZBgg9h4jkG.svg)](https://asciinema.org/a/QVq8vuaHZS5fx24ZBgg9h4jkG)
