@@ -7,7 +7,7 @@ HELLO_MSG = 'Hello, {}!'
 ANSWER_MSG = 'Your answer: '
 CORRECT_MSG = 'Correct!'
 SORRY_MSG = ("'{}' is wrong answer ;( Correct answer was '{}'\n"
-             "Let's try again, {}")
+             "Let's try again, {}!")
 CONGRAT_MSG = 'Congratulations, {}!'
 QUESTION_MSG = 'Question: {}'
 
