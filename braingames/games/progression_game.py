@@ -26,7 +26,7 @@ def generate_progression_mode():
 
     question = ''
     for j in range(len(list_of_question)):
-        question += ' ' + str(list_of_question[j])
+        question += str(list_of_question[j]) + ' '
     return str(correct_answer), question
 
 
