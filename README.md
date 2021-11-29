@@ -5,7 +5,7 @@ Project 'Brain Games' include five games:
 - [X] Brain calculator - Answer what is the result of the expression?
 - [X] Brain gcd - Answer what is the greatest common divisor of given numbers.
 - [X] Brain progression - Answer what number is missing in the progression?
-- [ ] Brain prime - Answer "yes" if given number is prime, otherwise answer "no".
+- [X] Brain prime - Answer "yes" if given number is prime, otherwise answer "no".
 ### Insallation:
 ```
 make build
