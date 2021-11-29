@@ -1,10 +1,11 @@
 [![Actions Status](https://github.com/emp7yhead/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/emp7yhead/python-project-lvl1/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/304443f72ed31aff22c9/maintainability)](https://codeclimate.com/github/emp7yhead/python-project-lvl1/maintainability) ![CI](https://github.com/emp7yhead/python-project-lvl1/actions/workflows/main.yml/badge.svg)
 ### Description:
-Project 'Brain Games' include four games:
-- [X] Brain even
-- [X] Brain calculator
-- [X] Brain gcd
-- [X] Brain progression
+Project 'Brain Games' include five games:
+- [X] Brain even  - Answer "yes" if the number is even, otherwise answer "no"
+- [X] Brain calculator - Answer what is the result of the expression?
+- [X] Brain gcd - Answer what is the greatest common divisor of given numbers.
+- [X] Brain progression - Answer what number is missing in the progression?
+- [ ] Brain prime - Answer "yes" if given number is prime. Otherwise answer "no".
 ### Insallation:
 ```
 make build
