@@ -10,7 +10,8 @@ def game_mode():
     random_num1 = random.randint(LOWER_LIMIT, UPPER_LIMIT)
     random_num2 = random.randint(LOWER_LIMIT, UPPER_LIMIT)
     question = str(random_num1) + ' ' + str(random_num2)
-    return str(gcd(random_num1, random_num2)), question
+    correct_answer = str(gcd(random_num1, random_num2))
+    return correct_answer, question
 
 
 def gcd(a, b):
