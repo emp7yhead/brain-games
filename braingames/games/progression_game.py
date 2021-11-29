@@ -1,5 +1,5 @@
 import random
-from braingames.functions.func import game_round
+from braingames.functions.func import generate_game_round
 
 LOWER_LIMIT = 1
 UPPER_LIMIT = 100
@@ -31,4 +31,4 @@ def generate_progression_mode():
 
 
 def progression_game():
-    game_round(RULE_MSG, generate_progression_mode)
+    generate_game_round(RULE_MSG, generate_progression_mode)

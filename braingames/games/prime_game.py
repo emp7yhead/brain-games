@@ -1,5 +1,5 @@
 import random
-from braingames.functions.func import game_round
+from braingames.functions.func import generate_game_round
 
 LOWER_LIMIT = 1
 UPPER_LIMIT = 100
@@ -20,4 +20,4 @@ def is_prime(num):
 
 
 def prime_game():
-    game_round(RULE_MSG, generate_prime_mode)
+    generate_game_round(RULE_MSG, generate_prime_mode)
