@@ -7,7 +7,7 @@ RULE_MSG = 'What is the result of the expression?'
 OPERATORS = '+', '-', '*'
 
 
-def game_mode():
+def generate_calc_mode():
     random_num1 = random.randint(LOWER_LIMIT, UPPER_LIMIT)
     random_num2 = random.randint(LOWER_LIMIT, UPPER_LIMIT)
     operator = random.choice(OPERATORS)
@@ -22,4 +22,4 @@ def game_mode():
 
 
 def calc_game():
-    game_round(RULE_MSG, game_mode)
+    game_round(RULE_MSG, generate_calc_mode)

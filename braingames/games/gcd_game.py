@@ -6,7 +6,7 @@ UPPER_LIMIT = 100
 RULE_MSG = 'Find the greatest common divisor of given numbers.'
 
 
-def game_mode():
+def generate_gcd_mode():
     random_num1 = random.randint(LOWER_LIMIT, UPPER_LIMIT)
     random_num2 = random.randint(LOWER_LIMIT, UPPER_LIMIT)
     question = str(random_num1) + ' ' + str(random_num2)
@@ -27,4 +27,4 @@ def gcd(a, b):
 
 
 def gcd_game():
-    game_round(RULE_MSG, game_mode)
+    game_round(RULE_MSG, generate_gcd_mode)

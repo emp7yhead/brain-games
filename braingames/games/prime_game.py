@@ -6,7 +6,7 @@ UPPER_LIMIT = 100
 RULE_MSG = '"yes" if given number is prime. Otherwise answer "no"'
 
 
-def game_mode():
+def generate_prime_mode():
     question = random.randint(LOWER_LIMIT, UPPER_LIMIT)
     correct_answer = is_prime(question)
     return correct_answer, question
@@ -20,4 +20,4 @@ def is_prime(num):
 
 
 def prime_game():
-    game_round(RULE_MSG, game_mode)
+    game_round(RULE_MSG, generate_prime_mode)

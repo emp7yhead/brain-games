@@ -12,7 +12,7 @@ START_UPPER_LIMIT = 5
 RULE_MSG = 'What number is missing in the progression?'
 
 
-def game_mode():
+def generate_progression_mode():
     step = random.randint(STEP_LOWER_LIMIT, STEP_UPPER_LIMIT)
     lenght = random.randint(LENGHT_LOWER_LIMIT, LENGHT_UPPER_LIMIT)
     slice_start = random.randint(START_LOWER_LIMIT, START_UPPER_LIMIT)
@@ -31,4 +31,4 @@ def game_mode():
 
 
 def progression_game():
-    game_round(RULE_MSG, game_mode)
+    game_round(RULE_MSG, generate_progression_mode)
