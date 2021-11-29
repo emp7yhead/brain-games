@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "Brain games"
+name = "hexlet-code"
 version = "0.7.3"
 description = "Brain games include five games: brain even, brain calc, brain gcd, brain progression, brain prime"
 authors = ["emp7yhead <artyomkropp@gmail.com>"]
