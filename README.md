@@ -31,7 +31,7 @@ make install
 
 [![asciicast](https://asciinema.org/a/QVq8vuaHZS5fx24ZBgg9h4jkG.svg)](https://asciinema.org/a/QVq8vuaHZS5fx24ZBgg9h4jkG)
 
-+Brain prime:
++ Brain prime:
 `brain-prime`
 
 [![asciicast](https://asciinema.org/a/ILpVbiM2EsUNpZyMF8r7J1H86.svg)](https://asciinema.org/a/ILpVbiM2EsUNpZyMF8r7J1H86)
