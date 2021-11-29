@@ -8,8 +8,8 @@ packages = [
 	{ include = "braingames" },
 ]
 classifiers = [
-	"Development Status :: 4 - Beta"
-	"Programming Language :: Python"
+	"Development Status :: 4 - Beta",
+	"Programming Language :: Python",
 	"Topic :: Games/Entertainment"
 ]
 
