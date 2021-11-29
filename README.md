@@ -4,7 +4,7 @@ Project 'Brain Games' include four games:
 - [X] Brain even
 - [X] Brain calculator
 - [X] Brain gcd
-- [ ] Brain progression
+- [X] Brain progression
 ### Insallation:
 ```
 make build
