@@ -17,8 +17,8 @@ def generate_game_round(RULE_MSG, game_mode):
     print(GREETING_MSG)
     username = prompt.string(ASK_NAME_MSG)
     print(HELLO_MSG.format(username))
+    print(RULE_MSG)
     while win_count < WIN_LIMIT:
-        print(RULE_MSG)
         correct_answer, question = game_mode()
         print(QUESTION_MSG.format(question))
         user_answer = prompt.string(ANSWER_MSG)
