@@ -1,5 +1,5 @@
 import random
-from braingames.functions.func import generate_game_round
+from braingames.game_engine.game_engine import generate_game_round
 
 LOWER_LIMIT = 1
 UPPER_LIMIT = 100
