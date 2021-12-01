@@ -27,5 +27,5 @@ def generate_game_round(RULE_MSG, game_mode):
             print(CORRECT_MSG)
         else:
             print(SORRY_MSG.format(user_answer, correct_answer, username))
-            break
+            return
     print(CONGRAT_MSG.format(username))
