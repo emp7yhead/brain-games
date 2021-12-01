@@ -16,29 +16,29 @@ Project 'Brain Games' include five games:
 make build
 make package-install
 ```
-[![asciicast](https://asciinema.org/a/OilcBLNGvOZVc7L8PTUJYg81G.svg)](https://asciinema.org/a/OilcBLNGvOZVc7L8PTUJYg81G)
+[![asciicast](https://asciinema.org/a/HMfYfoLFBynnj2KkPxEJMftY5.svg)](https://asciinema.org/a/HMfYfoLFBynnj2KkPxEJMftY5)
 
 + Brain even:
 `brain-even`
 
-[![asciicast](https://asciinema.org/a/GMyQy55C06MQpPeKaOq1VSiTv.svg)](https://asciinema.org/a/GMyQy55C06MQpPeKaOq1VSiTv)
+[![asciicast](https://asciinema.org/a/V3tFcO0hFHpIow0RwJC3Nw6uE.svg)](https://asciinema.org/a/V3tFcO0hFHpIow0RwJC3Nw6uE)
 
 + Brain calculator:
 `brain-calc`
 
-[![asciicast](https://asciinema.org/a/tXaUVFKPMmTyIZOvRKxrCvhaD.svg)](https://asciinema.org/a/tXaUVFKPMmTyIZOvRKxrCvhaD)
+[![asciicast](https://asciinema.org/a/iCS8SvlajhIP3OkZGGsrjaGjD.svg)](https://asciinema.org/a/iCS8SvlajhIP3OkZGGsrjaGjD)
 
 + Brain gcd:
 `brain-gcd`
 
-[![asciicast](https://asciinema.org/a/NFgjLNWinPu8KsV7hwJjcG778.svg)](https://asciinema.org/a/NFgjLNWinPu8KsV7hwJjcG778)
+[![asciicast](https://asciinema.org/a/y5n6LJJxt28qwhhXgY60cWIYC.svg)](https://asciinema.org/a/y5n6LJJxt28qwhhXgY60cWIYC)
 
 + Brain progression:
 `brain-progression`
 
-[![asciicast](https://asciinema.org/a/GguJe7q923OiUCuJWadb492SP.svg)](https://asciinema.org/a/GguJe7q923OiUCuJWadb492SP)
+[![asciicast](https://asciinema.org/a/gJFxHId84gmPJU1P0IBnupdow.svg)](https://asciinema.org/a/gJFxHId84gmPJU1P0IBnupdow)
 
 + Brain prime:
 `brain-prime`
 
-[![asciicast](https://asciinema.org/a/86myjRyHfBiwv95WNEB5QvueB.svg)](https://asciinema.org/a/86myjRyHfBiwv95WNEB5QvueB)
+[![asciicast](https://asciinema.org/a/aL7chJ2ZGojvGRzmvxNG7avfn.svg)](https://asciinema.org/a/aL7chJ2ZGojvGRzmvxNG7avfn)
