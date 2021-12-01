@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hexlet-code"
-version = "0.7.3"
+version = "0.7.5"
 description = "Brain games include five games: brain even, brain calc, brain gcd, brain progression, brain prime"
 authors = ["emp7yhead <artyomkropp@gmail.com>"]
 repository = "https://github.com/emp7yhead/python-project-lvl1.git"
