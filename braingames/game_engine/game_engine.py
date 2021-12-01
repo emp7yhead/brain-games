@@ -28,4 +28,4 @@ def generate_game_round(RULE_MSG, game_mode):
         else:
             print(SORRY_MSG.format(user_answer, correct_answer, username))
             return
-    return CONGRAT_MSG.format(username)
+    print(CONGRAT_MSG.format(username))
