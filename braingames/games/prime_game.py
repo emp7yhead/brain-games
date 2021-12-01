@@ -8,15 +8,13 @@ RULE_MSG = '"yes" if given number is prime. Otherwise answer "no"'
 
 def generate_prime_mode():
     question = random.randint(LOWER_LIMIT, UPPER_LIMIT)
-    correct_answer = is_prime(question)
+    correct_answer = 'yes' if is_prime(question) is True else 'no'
     return correct_answer, question
 
 
 def is_prime(num):
     for i in range(2, num // 2 + 1):
-        if num % i == 0:
-            return 'no'
-    return 'yes'
+        return False if num % i == 0 else True
 
 
 def prime_game():
