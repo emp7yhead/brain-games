@@ -22,7 +22,7 @@ def generate_game_round(RULE_MSG, game_mode):
         correct_answer, question = game_mode()
         print(QUESTION_MSG.format(question))
         user_answer = prompt.string(ANSWER_MSG)
-        if user_answer == correct_answer:
+        if user_answer.lower() == correct_answer:
             win_count += 1
             print(CORRECT_MSG)
         else:
