@@ -1,6 +1,6 @@
 import random
 import math
-from braingames.game_engine.game_engine import generate_game_round
+from braingames.game_engine.game_engine import start_game_round
 
 LOWER_LIMIT = 1
 UPPER_LIMIT = 100
@@ -16,4 +16,4 @@ def generate_gcd_mode():
 
 
 def gcd_game():
-    generate_game_round(RULE_MSG, generate_gcd_mode)
+    start_game_round(RULE_MSG, generate_gcd_mode)

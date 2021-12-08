@@ -12,7 +12,7 @@ CONGRAT_MSG = 'Congratulations, {}!'
 QUESTION_MSG = 'Question: {}'
 
 
-def generate_game_round(RULE_MSG, game_mode):
+def start_game_round(RULE_MSG, game_mode):
     win_count = 0
     print(GREETING_MSG)
     username = prompt.string(ASK_NAME_MSG)

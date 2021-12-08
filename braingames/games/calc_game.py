@@ -1,5 +1,5 @@
 import random
-from braingames.game_engine.game_engine import generate_game_round
+from braingames.game_engine.game_engine import start_game_round
 
 LOWER_LIMIT = 1
 UPPER_LIMIT = 100
@@ -22,4 +22,4 @@ def generate_calc_mode():
 
 
 def calc_game():
-    generate_game_round(RULE_MSG, generate_calc_mode)
+    start_game_round(RULE_MSG, generate_calc_mode)
