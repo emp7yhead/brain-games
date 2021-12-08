@@ -1,7 +1,7 @@
 import random
 from braingames.game_engine.game_engine import start_game_round
 
-LOWER_LIMIT = 1
+LOWER_LIMIT = 0
 UPPER_LIMIT = 100
 RULE_MSG = '"yes" if given number is prime. Otherwise answer "no"'
 
@@ -13,6 +13,8 @@ def generate_prime_mode():
 
 
 def is_prime(num):
+    if num == 0 or num == 1:
+        return False
     for i in range(2, num // 2 + 1):
         if num % i == 0:
             return False
