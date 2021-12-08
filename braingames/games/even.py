@@ -10,10 +10,9 @@ def generate_even_mode():
     question = random.randint(LOWER_LIMIT, UPPER_LIMIT)
     if question % 2 == 0:
         correct_answer = 'yes'
-        return correct_answer, question
     else:
         correct_answer = 'no'
-        return correct_answer, question
+    return correct_answer, question
 
 
 def even_game():
