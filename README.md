@@ -11,7 +11,7 @@ Project 'Brain Games' include five games:
 - python = "^3.9"
 - prompt = "^0.4.1"
 
-### Insallation:
+### Installation:
 ```
 make build
 make package-install
