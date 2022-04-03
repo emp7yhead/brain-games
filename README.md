@@ -17,7 +17,7 @@ Project 'Brain Games' include five games:
 ```
 pip install --user git+https://github.com/emp7yhead/python-project-lvl1
 ```
-#### Or
+### Or
 ### Clone repository and use poetry:
 ```
 git clone https://github.com/emp7yhead/python-project-lvl1
