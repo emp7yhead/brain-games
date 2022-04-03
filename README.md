@@ -1,5 +1,6 @@
 [![Actions Status](https://github.com/emp7yhead/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/emp7yhead/python-project-lvl1/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/304443f72ed31aff22c9/maintainability)](https://codeclimate.com/github/emp7yhead/python-project-lvl1/maintainability) ![CI](https://github.com/emp7yhead/python-project-lvl1/actions/workflows/main.yml/badge.svg)
-### Description:
+# gendiff
+## Description:
 Project 'Brain Games' include five games:
 - [X] Brain even  - Answer "yes" if the number is even, otherwise answer "no"
 - [X] Brain calculator - Answer what is the result of the expression?
@@ -7,15 +8,25 @@ Project 'Brain Games' include five games:
 - [X] Brain progression - Answer what number is missing in the progression?
 - [X] Brain prime - Answer "yes" if given number is prime, otherwise answer "no".
 
-### Dependencies:
+## Dependencies:
 - python = "^3.9"
 - prompt = "^0.4.1"
 
-### Installation:
+## Installation:
+### Use the package manager pip:
 ```
+pip install --user git+https://github.com/emp7yhead/python-project-lvl1
+```
+#### Or
+### Clone repository and use poetry:
+```
+git clone https://github.com/emp7yhead/python-project-lvl1
+cd python-project-lvl1
 make build
 make package-install
 ```
+## Work process:
+
 [![asciicast](https://asciinema.org/a/HMfYfoLFBynnj2KkPxEJMftY5.svg)](https://asciinema.org/a/HMfYfoLFBynnj2KkPxEJMftY5)
 
 + Brain even:
